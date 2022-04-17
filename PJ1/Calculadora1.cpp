@@ -1,5 +1,5 @@
 /*==================================================
-	13/04 - Exercícios de Entrada de Dados
+	13/04 - ExercÃ­cios de Entrada de Dados
 	Objetivo: realizar as atividades em dupla, integrando os algoritmos para entrega.
 
 	Nome: Gustavo Emiliano Rodrigues dos Santos RGM: 28826281
@@ -12,7 +12,7 @@
 
 main(){
 	/*======================
-	Declaração de variaveis
+	DeclaraÃ§Ã£o de variaveis
 		Calculadora
 	======================*/
 	int num1, num2, soma, sub, div, multi;
